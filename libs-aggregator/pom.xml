@@ -23,4 +23,8 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>common-sql</module>
+    </modules>
+
 </project>
