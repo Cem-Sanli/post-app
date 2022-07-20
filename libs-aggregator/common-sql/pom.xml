@@ -21,6 +21,8 @@
         <java.version>17</java.version>
     </properties>
 
+    <packaging>jar</packaging>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
